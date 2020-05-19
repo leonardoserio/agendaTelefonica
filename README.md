@@ -1,2 +1,2 @@
 # agendaTelefonica
-Projeto criado para testar alguns conhecimento em AngularJS
+Projeto criado para testar alguns conhecimentos em AngularJS
